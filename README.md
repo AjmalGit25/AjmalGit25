@@ -6,8 +6,6 @@ I enjoy late-night problem solving, exploring AI-driven technologies, and contin
 
 <i>PS: No world domination plans — just clean code and good ideas.</i>
 
-<br/>
-
 ## About Me
 ```javascript
 const Ajmal = {
@@ -37,7 +35,7 @@ const Ajmal = {
     <td width="50%" valign="top" align="center">
       <h3>Core Tools & Languages</h3>
 
-  <table border="2px" solid white; border-radius: 10px;">
+  <table border="2px" color="red">
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
@@ -71,14 +69,13 @@ const Ajmal = {
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
     </tr>
     <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
+      <td align="center"><img height="45" alt="redux" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
+      <td align="center"><img height="45" alt="material_ui" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
+      <td align="center"><img height="45" alt="auth" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
+      <td align="center"><img height="45" alt="docker" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
     </tr>
     <tr>
-      <td align="center"><img height="45" alt="eclipse" src="https://github.com/user-attachments/assets/d7b443a1-15a9-4fad-b7a9-6be787c85b31" />
-"></td>
+      <td align="center"><img height="45" alt="eclipse" src="https://github.com/user-attachments/assets/d7b443a1-15a9-4fad-b7a9-6be787c85b31"/></td>
     </tr>
   </table>
 </td>
