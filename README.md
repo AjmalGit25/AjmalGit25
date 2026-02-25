@@ -37,7 +37,7 @@ const Ajmal = {
     <td width="50%" valign="top" align="center">
       <h3>Core Tools & Languages</h3>
 
-  <table style="border: 2px solid white; border-radius: 10px;">
+  <table border="2px" solid white; border-radius: 10px;">
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
@@ -75,6 +75,10 @@ const Ajmal = {
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" alt="eclipse" src="https://github.com/user-attachments/assets/d7b443a1-15a9-4fad-b7a9-6be787c85b31" />
+"></td>
     </tr>
   </table>
 </td>
