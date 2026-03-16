@@ -13,14 +13,19 @@ const Ajmal = {
   code: ["C", "C++", "JavaScript"],
   technologies: {
     frontEnd: {
-      js: ["React"],
-      css: ["Tailwind CSS"],
+      library: ["React"],
+      frameworks: [""],
+      styling: ["Tailwind CSS", "Bootstrap"],
     },
     backEnd: {
-      js: ["Node", "Express"],
+      runtime: ["Node.js"],
+      framework: ["Express.js"],
+      authentication: [""],
+      security: ["bcrypt"]
     },
-    databases: ["MongoDB", "Oracle", "MySQL"],
-    misc: ["REST APIs"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitHub", "Postman", "VS Code"],
+    deployments: [""]
   },
   funFact: "Favourite emoji: 💀 (because coding is sometimes *that* dramatic)"
 };
