@@ -163,7 +163,7 @@ const Ajmal = {
 ## My GitHub Pets
 
 <a href="https://github.com/AjmalGit23/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ajmalhussain92" width="5000" height="300"/>
+  <img src="https://render.gitanimals.org/lines/ajmalhussain92" width="5000" height="300" padding="10"/>
 </a>
 
 <!--
