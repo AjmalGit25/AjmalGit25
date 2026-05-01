@@ -100,8 +100,8 @@ const Ajmal = {
 <br/>
 
 ## Highlights
-* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving
-* Solved 95+ DSA problems on LeetCode
+<!--* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving -->
+* Solved 100+ DSA problems on LeetCode
 * Share technical learnings and project updates regularly on LinkedIn
 
 <br/>
