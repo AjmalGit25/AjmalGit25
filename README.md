@@ -1,6 +1,6 @@
 # Heya! 👋 I'm Md Ajmal Hussain
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!) -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+Developer;3%2B+years+of+coding+experience;Always+learning+new+things)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+Developer;3%2B+years+of+coding+experience;Always+learning+new+things)
 
 Hi, I'm Ajmal Hussain — a Full Stack Software Developer based in Ahmedabad, India. 
 I specialize in building modern web applications using React, Node.js, MongoDB, and Tailwind CSS. 
@@ -102,7 +102,7 @@ const Ajmal = {
 
 ## Highlights
 <!--* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving -->
-* Solved 100+ DSA problems on LeetCode
+* Solved 105+ DSA problems on LeetCode
 * Share technical learnings and project updates regularly on LinkedIn
 
 <br/>
