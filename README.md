@@ -107,7 +107,7 @@ const Ajmal = {
 
 <br/>
 
-## Connect With Me
+## 🌐 Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-hussain92)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asyncajmal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-007fff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ajmal-hussain.vercel.app)
@@ -122,7 +122,7 @@ const Ajmal = {
 
 #
 <details>
-  <summary><h2> View Certificates (Toggle Here) </h2></summary>
+  <summary><h2> 📄 View Certificates (Toggle Here) </h2></summary>
   
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769894778/Figma_Certificate_Udemy_b70tw8.jpg" width="260" alt="Udemy Figma Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769895393/Full_Stack_Development_Virtual_Internship_EduSkills_hjmy54.jpg" width="260" alt="EduSkills AICTE Full-Stack Internship Certificate"/>
@@ -152,7 +152,7 @@ const Ajmal = {
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691123)](https://github.com/Priyasha-Yadav)
 -->
 
-## Also Find Me On
+## 🧑‍💻 Also Find Me On
 <!-- Source: (Shiels.io) https://img.shields.io/badge/<LABEL>-<COLOR>?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white -->
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3profile.com/AjmalW3)
 [![LeetCode](https://img.shields.io/badge/LeetCode-important?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AjmalAlgo)
