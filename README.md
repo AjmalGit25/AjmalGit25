@@ -13,7 +13,7 @@ Alongside development, I actively strengthen my problem-solving skills through D
 ```javascript
 const Ajmal = {
   pronouns: "He/Him",
-  code: ["C", "C++", "JavaScript"],
+  code: ["C++", "JavaScript"],
   technologies: {
     frontEnd: {
       library: ["React"],
@@ -28,7 +28,7 @@ const Ajmal = {
     },
     databases: ["MongoDB", "MySQL"],
     tools: ["Git", "GitHub", "Postman", "VS Code"],
-    deployments: ["vercel"]
+    deployments: ["vercel", "render"]
   },
   funFact: "Favourite emoji: 💀 (because coding is sometimes *that* dramatic)"
 };
