@@ -90,7 +90,8 @@ const Ajmal = {
     <tr>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=15" alt="ubuntu"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=docker&theme=dark&perline=15" alt="docker"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=eclipse&theme=dark&perline=15" alt="eclipse"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="intellij"></td>
     </tr>
     
   </table>
