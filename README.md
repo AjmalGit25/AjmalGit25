@@ -46,26 +46,26 @@ const Ajmal = {
 
   <table border="2px" color="red">
     <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=git&theme=dark&perline=15" alt="git"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" alt="github"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" alt="react"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=tailwindcss&theme=dark&perline=15" alt="tailwind"></td>
     </tr>
     <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" alt="javascript"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=15" alt="node"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15" alt="express"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" alt="mongodb"></td>
     </tr>
     <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" alt="postman"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" alt="vscode"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=cpp&theme=dark&perline=15" alt="cpp"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=15" alt="mysql"></td>
     </tr>
     <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vite&theme=dark&perline=15" alt="vite"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vercel&theme=light&perline=15" alt="vercel"></td>
     </tr>
   </table>
 </td>
@@ -76,22 +76,21 @@ const Ajmal = {
 
   <table>
     <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png"/></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png"></td>
-    </tr>
-    <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png"></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png"/></td>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=typescript&theme=dark&perline=15" alt="typescript"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15" alt="bootstrap"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=figma&theme=dark&perline=15" alt="figma"></td>
       <td align="center"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1280px-New_Power_BI_Logo.svg.png?_=20210102182532"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=c&theme=dark&perline=15" alt="c"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=java&theme=dark&perline=15" alt="java"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=python&theme=dark&perline=15" alt="python"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=r&theme=dark&perline=15" alt="r"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=15" alt="ubuntu"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=docker&theme=dark&perline=15" alt="docker"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"></td>
     </tr>
     
   </table>
