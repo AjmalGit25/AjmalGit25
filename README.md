@@ -156,28 +156,12 @@ const Ajmal = {
 <!-- Source: (Shiels.io) https://img.shields.io/badge/<LABEL>-<COLOR>?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white -->
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3profile.com/AjmalW3)
 [![LeetCode](https://img.shields.io/badge/LeetCode-important?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AjmalAlgo)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ajmalashrafi2016)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ajmalashrafi2016)
 [![Unstop](https://img.shields.io/badge/Unstop-informational?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/u/mdhus70693)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ajmalashr9iyk)
 
 </br>
 </br>
-
-<!-- ## My GitHub Pets -->
-
-<!-- <a href="https://github.com/ajmalhussain92/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ajmalhussain92" width="5000" height="300"/>
-</a> -->
-
-<!--
-<a href="https://github.com/ajmalhussain92/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ajmalhussain92?pet-id=698387297160483684" width="1200" height="200"/>
-</a>
-
-
-<a href="https://github.com/ajmalhussain92/gitanimals">
-  <img src="https://render.gitanimals.org/lines/ajmalhussain92?pet-id=698387297160483685" width="1200" height="260"/>
-</a>
--->
 
 <!--
 ## Current Quote
