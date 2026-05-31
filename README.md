@@ -14,6 +14,7 @@ Alongside development, I actively strengthen my problem-solving skills through D
 const Ajmal = {
   pronouns: "He/Him",
   code: ["C++", "JavaScript"],
+  title: "Full-Stack Developer",
   technologies: {
     frontEnd: {
       library: ["React"],
