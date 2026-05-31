@@ -113,7 +113,7 @@ const Ajmal = {
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/asyncajmal)
 [![Portfolio](https://img.shields.io/badge/Portfolio-007fff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ajmal-hussain.vercel.app)
 [![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1341100335086833725)
-[![Gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajmalashrafi2016@gmail.com)
+[![Gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reach.ajmal.dev@gmail.com)
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() -->
 
 
