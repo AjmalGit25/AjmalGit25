@@ -2,7 +2,7 @@
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!) -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+Developer;3%2B+years+of+coding+experience;Always+learning+new+things)
 
-Hi, I'm Ajmal Hussain — a Full Stack Software Developer based in Ahmedabad, India. 
+I'm a Full Stack MERN Developer based in Ahmedabad, India. 
 I specialize in building modern web applications using React, Node.js, MongoDB, and Tailwind CSS. 
 I focus on creating clean, scalable, and user-friendly solutions while following best development practices. 
 Alongside development, I actively strengthen my problem-solving skills through Data Structures and Algorithms using C++.
