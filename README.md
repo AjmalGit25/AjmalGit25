@@ -134,6 +134,8 @@ const Ajmal = {
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769897136/Kali_Linux_Basics_SimpliLearn_og4cmp.jpg" width="270" alt="SimpliLearn Kali Linux Basics Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779276550/DSA_Cplus_ChaiCode___CoC_egrj1n.jpg" width="270" alt="DSA wit C++ Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835626/SQL_Basic_Certificate_HackerRank_lyr2rs.jpg" width="270" alt="SQL_Basic_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614626/Hackathon_VibeCriminals_xjnjsy.jpg" width="270" alt="VibeCriminals_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614687/Node_js_Intermediate_HackerRank_byxwlh.jpg" width="270" alt="Node_js_Intermediate_Certificate"/>
 </details>
 
 #
