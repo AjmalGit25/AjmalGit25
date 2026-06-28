@@ -7,6 +7,10 @@ I specialize in building modern web applications using React, Node.js, MongoDB, 
 I focus on creating clean, scalable, and user-friendly solutions while following best development practices. 
 Alongside development, I actively strengthen my problem-solving skills through Data Structures and Algorithms using C++.
 
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=AjmalGit25&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 <i>PS: No world domination plans — just clean code and good ideas.</i>
 
 ## About Me
