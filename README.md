@@ -180,7 +180,7 @@ const Ajmal = {
 --->
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1770520154/Final_Edit_Gorge_vuigf3.jpg" width="500" style="border-radius: 50%;">
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782976617/portfolio_mhcvvb.png" width="700" style="border-radius: 50%">
   <br/>
   <em>When your code compiles and so does your personality 🌟</em>
 </p>
