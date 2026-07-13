@@ -15,27 +15,71 @@ Alongside development, I actively strengthen my problem-solving skills through D
 
 ## About Me
 ```javascript
-const Ajmal = {
+
+const ajmal = {
+  name: "Md Ajmal Hussain",
   pronouns: "He/Him",
-  code: ["C++", "JavaScript"],
-  title: "Full-Stack Developer",
-  technologies: {
-    frontEnd: {
-      library: ["React"],
-      frameworks: [""],
-      styling: ["Tailwind CSS", "Bootstrap"],
-    },
-    backEnd: {
-      runtime: ["Node.js"],
-      framework: ["Express.js"],
-      authentication: ["jwt"],
-      security: ["bcrypt"]
-    },
-    databases: ["MongoDB", "MySQL"],
-    tools: ["Git", "GitHub", "Postman", "VS Code"],
-    deployments: ["vercel", "render"]
+
+  role: "Full-Stack Developer",
+
+  languages: [
+    "C++",
+    "JavaScript"
+  ],
+
+  frontend: {
+    library: "React",
+    frameworks: "",
+
+    styling: [
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material UI"
+    ],
+    icons: ["React Icons"],
   },
-  funFact: "Favourite emoji: 💀 (because coding is sometimes *that* dramatic)"
+
+  backend: {
+    runtime: "Node.js",
+    framework: "Express.js",
+    authentication: ["JWT"],
+    security: ["bcrypt"],
+    api: ["REST API"],
+  },
+
+  database: [
+    "MongoDB",
+    "MySQL"
+  ],
+
+  tools: [
+    "Git",
+    "GitHub",
+    "Postman",
+    "VS Code"
+  ],
+
+  deployment: [
+    "Vercel",
+    "Render"
+  ],
+
+  currentlyLearning: [
+    "Data Structures & Algorithms",
+    "System Design",
+    "TypeScript"
+  ],
+
+  interests: [
+    "Full-Stack Development",
+    "Backend Engineering",
+    "Problem Solving",
+    "Open Source"
+  ],
+
+  motto: "Write clean code. Keep learning. Build useful things.",
+
+  funFact: "Favorite emoji: 💀 (because debugging has its own personality.)",
 };
 ```
 <br/>
