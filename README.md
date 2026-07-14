@@ -77,6 +77,16 @@ const ajmal = {
     "Open Source"
   ],
 
+  familiar: [
+    "AI/ML",
+    "Python",
+    "Java",
+    "Linux",
+    "R programming",
+    "Figma",
+    "Power BI"
+  ],
+
   motto: "Write clean code. Keep learning. Build useful things.",
 
   funFact: "Favorite emoji: 💀 (because debugging has its own personality.)",
