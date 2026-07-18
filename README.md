@@ -2,7 +2,7 @@
 <!--![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!) -->
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+Developer;3%2B+years+of+coding+experience;Always+learning+new+things)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,35:1D4ED8,70:3B82F6,100:22D3EE&text=MD%20AJMAL%20HUSSAIN&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=22&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,35:1D4ED8,70:3B82F6,100:22D3EE&text=MD%20AJMAL%20HUSSAIN&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=22&animation=)
 
 I'm a Full Stack MERN Developer based in Ahmedabad, India. 
 I specialize in building modern web applications using React, Node.js, MongoDB, and Tailwind CSS. 
