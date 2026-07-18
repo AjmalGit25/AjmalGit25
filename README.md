@@ -22,7 +22,6 @@ I focus on creating clean, scalable, and user-friendly solutions while following
 Alongside development, I actively strengthen my problem-solving skills through Data Structures and Algorithms using C++.
 
 
-
 #
 <i>PS: No world domination plans — just clean code and good ideas.</i>
 
@@ -179,7 +178,7 @@ const ajmal = {
 * Solved 170+ DSA problems on LeetCode
 * Share technical learnings and project updates regularly on LinkedIn
 
-<br/>
+---
 
 ## 🌐 Connect With Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajmal-hussain92)
@@ -189,12 +188,28 @@ const ajmal = {
 [![Gmail](https://img.shields.io/badge/gmail-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reach.ajmal.dev@gmail.com)
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() -->
 
+---
+
+## 🧑‍💻 Also Find Me On
+<!-- Source: (Shiels.io) https://img.shields.io/badge/<LABEL>-<COLOR>?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white -->
+[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3profile.com/AjmalW3)
+[![LeetCode](https://img.shields.io/badge/LeetCode-important?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AjmalAlgo)
+[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ajmalashrafi2016)
+[![Unstop](https://img.shields.io/badge/Unstop-informational?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/u/mdhus70693)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ajmalashr9iyk)
+
+---
 
 <!-- ## Projects -->
 
-<br/>
 
-#
+<!--
+# 🛠 Tech Stack
+
+## 💻 Programming Languages
+
+-->
+
 <details>
   <summary><h2> 📄 View Certificates (Toggle Here) </h2></summary>
   
@@ -211,42 +226,7 @@ const ajmal = {
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614687/Node_js_Intermediate_HackerRank_byxwlh.jpg" width="270" alt="Node_js_Intermediate_Certificate"/>
 </details>
 
-#
-
-<!-- ![GitHub Contribution Snake Dark](https:///output/github-contribution-grid-snake-dark.svg) -->
-
-<!--https://github.com/marwin1991/profile-technology-icons-->
-</br>
-
-<!--## Trophies
-[![Trophies](https://github)](https://github.com/ajmalhussain92)
-
-</br> -->
-<!--
-## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691123)](https://github.com/Priyasha-Yadav)
--->
-
-## 🧑‍💻 Also Find Me On
-<!-- Source: (Shiels.io) https://img.shields.io/badge/<LABEL>-<COLOR>?style=for-the-badge&logo=<LOGO_NAME>&logoColor=white -->
-[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3profile.com/AjmalW3)
-[![LeetCode](https://img.shields.io/badge/LeetCode-important?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/AjmalAlgo)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ajmalashrafi2016)
-[![Unstop](https://img.shields.io/badge/Unstop-informational?style=for-the-badge&logo=unstop&logoColor=white)](https://unstop.com/u/mdhus70693)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ajmalashr9iyk)
-
-</br>
-</br>
-
-<!--
-## Current Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
-![Visits Badge](https://profile-counter.deno.dev/:ajmalhussain92:/count.svg) -->
-
-<!---
-<a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
---->
+---
 
 <p align="center">
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782976617/portfolio_mhcvvb.png" width="700" style="border-radius: 50%">
@@ -257,26 +237,5 @@ const ajmal = {
 
 > ✨ *“Ctrl + S, but make it sanskaari.”*  
 > — with love from 🇮🇳 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    
-<!-- <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div> 
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,20:0284C7,50:2563EB,80:1D4ED8,100:020617)
