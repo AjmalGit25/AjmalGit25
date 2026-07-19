@@ -1,6 +1,11 @@
-# Heya! 👋 I'm Md Ajmal Hussain
-<!--![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!) -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;Full-Stack+Web+Developer;3%2B+years+of+coding+experience;Always+learning+new+things)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+MD+AJMAL+HUSSAIN;Full-Stack+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+<!--
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+-->
 
 <div align="center">
   
