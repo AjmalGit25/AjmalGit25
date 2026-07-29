@@ -229,6 +229,7 @@ const ajmal = {
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835626/SQL_Basic_Certificate_HackerRank_lyr2rs.jpg" width="270" alt="SQL_Basic_Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614626/Hackathon_VibeCriminals_xjnjsy.jpg" width="270" alt="VibeCriminals_Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614687/Node_js_Intermediate_HackerRank_byxwlh.jpg" width="270" alt="Node_js_Intermediate_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1785349042/Craftathon_GU_zpzj4b.png" width="270" alt="Craftathon"/>
 </details>
 
 ---
