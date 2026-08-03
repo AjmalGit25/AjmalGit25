@@ -1,17 +1,12 @@
+<!-- Typing SVG -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+MD+AJMAL+HUSSAIN;Full-Stack+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;MERN+Stack+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+
+<p>
+  <img width="100%" alt="Header"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&width=full&color=0:0B1120,35:1D4ED8,70:3B82F6,100:22D3EE&text=MD%20AJMAL%20HUSSAIN&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=22&animation=" />
 </p>
--->
-
-<div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B1120,35:1D4ED8,70:3B82F6,100:22D3EE&text=MD%20AJMAL%20HUSSAIN&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20MERN%20Stack%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=22&animation=)
-
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AjmalGit25&label=Visitors&color=2563EB&style=for-the-badge"/>
@@ -20,7 +15,7 @@
 </p>
 
 <!-- - Gradient Line -->
-<img alt="ajmalHussain" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://raw.githubusercontent.com/AjmalGit25/AjmalGit25/main/assets/divider-blue.svg" width="100%">
 
 I'm a Full Stack MERN Developer based in Ahmedabad, India. 
 I specialize in building modern web applications using React, Node.js, MongoDB, and Tailwind CSS. 
@@ -112,9 +107,8 @@ const ajmal = {
   funFact: "Favorite emoji: 💀 (because debugging has its own personality.)",
 };
 ```
-<br/>
-<br/>
-
+<!-- - Gradient Line -->
+<img src="./assets/divider-blue.svg" width="100%">
 
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
   <tr>
@@ -128,20 +122,19 @@ const ajmal = {
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" alt="github"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" alt="react"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=tailwindcss&theme=dark&perline=15" alt="tailwind"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=15" alt="node"></td>
     </tr>
     <tr>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" alt="javascript"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=15" alt="node"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=typescript&theme=dark&perline=15" alt="typescript"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15" alt="express"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" alt="mongodb"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" alt="postman"></td>
     </tr>
     <tr>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" alt="postman"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" alt="vscode"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=cpp&theme=dark&perline=15" alt="cpp"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=15" alt="mysql"></td>
-    </tr>
-    <tr>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vite&theme=dark&perline=15" alt="vite"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vercel&theme=light&perline=15" alt="vercel"></td>
     </tr>
@@ -177,7 +170,8 @@ const ajmal = {
   </tr>
 </table>
 
-<br/>
+<!-- - Gradient Line -->
+<img src="https://raw.githubusercontent.com/AjmalGit25/AjmalGit25/main/assets/divider-blue.svg" width="100%">
 
 ## Highlights
 <!--* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving -->
@@ -233,7 +227,8 @@ const ajmal = {
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1785349042/Craftathon_GU_zpzj4b.png" width="270" alt="Craftathon"/>
 </details>
 
----
+<!-- - Gradient Line -->
+<img src="./assets/divider-blue.svg" width="100%">
 
 <p align="center">
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782976617/portfolio_mhcvvb.png" width="700" style="border-radius: 50%">
@@ -241,8 +236,13 @@ const ajmal = {
   <em>When your code compiles and so does your personality 🌟</em>
 </p>
 
+<!-- - Gradient Line -->
+<img src="./assets/divider-blue.svg" width="100%">
 
 > ✨ *“Ctrl + S, but make it sanskaari.”*  
 > — with love from 🇮🇳 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,20:0284C7,50:2563EB,80:1D4ED8,100:020617)
+<p>
+  <img width="100%" alt="Footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:06B6D4,20:0284C7,50:2563EB,80:1D4ED8,100:020617"/>
+</p>
