@@ -26,7 +26,8 @@ Alongside development, I actively strengthen my problem-solving skills through D
 #
 <i>PS: No world domination plans — just clean code and good ideas.</i>
 
----
+<!-- - Gradient Line -->
+<img src="./assets/divider-blue.svg" width="100%">
 
 ## About Me
 ```javascript
