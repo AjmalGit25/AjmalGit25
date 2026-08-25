@@ -119,8 +119,7 @@ const ajmal = {
 
   <table border="2px" color="red">
     <tr>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=git&theme=dark&perline=15" alt="git"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" alt="github"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=nextjs&theme=dark&perline=15" alt="nextjs"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" alt="react"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=tailwindcss&theme=dark&perline=15" alt="tailwind"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=15" alt="node"></td>
@@ -130,14 +129,27 @@ const ajmal = {
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=typescript&theme=dark&perline=15" alt="typescript"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15" alt="express"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" alt="mongodb"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=15" alt="mysql"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=15" alt="postgres"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=prisma&theme=dark&perline=15" alt="prisma"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" alt="postman"></td>
     </tr>
     <tr>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=git&theme=dark&perline=15" alt="git"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" alt="github"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" alt="vscode"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=cpp&theme=dark&perline=15" alt="cpp"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=15" alt="mysql"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vite&theme=dark&perline=15" alt="vite"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=cpp&theme=dark&perline=15" alt="cpp"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vercel&theme=light&perline=15" alt="vercel"></td>
+      <td align="center"><img height="45" src="https://www.readmecodegen.com/api/social-icon?name=render&size=32&color=%23ffffff" alt="render"></td>
+      <td align="center"><img height="45" src="https://www.readmecodegen.com/api/social-icon?name=netlify&color=%2310b981" alt="netlify"></td>
+    </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://www.readmecodegen.com/api/social-icon?name=railway&color=%23ffffff" alt="railway"></td>
     </tr>
   </table>
 </td>
@@ -148,7 +160,7 @@ const ajmal = {
 
   <table>
     <tr>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=typescript&theme=dark&perline=15" alt="typescript"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=materialui&theme=dark&perline=15" alt="materialui"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=bootstrap&theme=dark&perline=15" alt="bootstrap"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=figma&theme=dark&perline=15" alt="figma"></td>
       <td align="center"><img height="45" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1280px-New_Power_BI_Logo.svg.png?_=20210102182532"></td>
@@ -161,7 +173,6 @@ const ajmal = {
     </tr>
     <tr>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=ubuntu&theme=dark&perline=15" alt="ubuntu"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=docker&theme=dark&perline=15" alt="docker"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=eclipse&theme=dark&perline=15" alt="eclipse"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/intellij.png" alt="intellij"></td>
     </tr>
