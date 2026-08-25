@@ -123,26 +123,24 @@ const ajmal = {
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=react&theme=dark&perline=15" alt="react"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=tailwindcss&theme=dark&perline=15" alt="tailwind"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=nodejs&theme=dark&perline=15" alt="node"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15" alt="express"></td>
     </tr>
     <tr>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=javascript&theme=dark&perline=15" alt="javascript"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=typescript&theme=dark&perline=15" alt="typescript"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=expressjs&theme=dark&perline=15" alt="express"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mongodb&theme=dark&perline=15" alt="mongodb"></td>
-    </tr>
-    <tr>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=mysql&theme=dark&perline=15" alt="mysql"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=15" alt="postgres"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=prisma&theme=dark&perline=15" alt="prisma"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" alt="postman"></td>
     </tr>
     <tr>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=prisma&theme=dark&perline=15" alt="prisma"></td>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=postman&theme=dark&perline=15" alt="postman"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=git&theme=dark&perline=15" alt="git"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=github&theme=dark&perline=15" alt="github"></td>
-      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" alt="vscode"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vite&theme=dark&perline=15" alt="vite"></td>
     </tr>
     <tr>
+      <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vscode&theme=dark&perline=15" alt="vscode"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=cpp&theme=dark&perline=15" alt="cpp"></td>
       <td align="center"><img height="45" src="https://skillicons.dev/icons?i=vercel&theme=light&perline=15" alt="vercel"></td>
       <td align="center"><img height="45" src="https://www.readmecodegen.com/api/social-icon?name=render&size=32&color=%23ffffff" alt="render"></td>
