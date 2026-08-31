@@ -244,18 +244,19 @@ const ajmal = {
 <details>
   <summary><h2> 📄 View Certificates (Toggle Here) </h2></summary>
   
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769894778/Figma_Certificate_Udemy_b70tw8.jpg" width="260" alt="Udemy Figma Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769895393/Full_Stack_Development_Virtual_Internship_EduSkills_hjmy54.jpg" width="260" alt="EduSkills AICTE Full-Stack Internship Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835309/CC_Internship_Certificate_Codveda_vfdbyc.jpg" width="270" alt="CC++_Internship_Certificate_Codveda"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896830/Advanced_C__SimpliLearn_kdcufu.jpg" width=300 alt="Advanced C++ SimpliLearn Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1788208636/Internship_Certificate_Training_Full-Stack_CodecTechnologies_qk8nzj.jpg" width="270" alt="Internship_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1785349042/Craftathon_GU_zpzj4b.png" width="270" alt="Craftathon"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614687/Node_js_Intermediate_HackerRank_byxwlh.jpg" width="270" alt="Node_js_Intermediate_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614626/Hackathon_VibeCriminals_xjnjsy.jpg" width="270" alt="VibeCriminals_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1788208950/Internship_Certificate_Full-Stack_CodeAlpha_e7jt1t.jpg" width="260" alt="Internship_CodeAlpha"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1788208899/SEO_with_AI__Sololearn_mlc2fx.jpg" width="270" alt="SEO_with_AI"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1788209209/GenAI_LaunchPad_Innomatics_o5qpfp.jpg" width="270" alt="GenAI_LaunchPad"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779276550/DSA_Cplus_ChaiCode___CoC_egrj1n.jpg" width="270" alt="DSA wit C++ Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769894778/Figma_Certificate_Udemy_b70tw8.jpg" width="260" alt="Figma Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896633/Data_Analytics_with_PowerBI_Rai_VAC_rin2xn.jpg" width="270" alt="Data Analytics using Power BI Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896950/Generative_AI_Course_SheKunj_wnn2o2.jpg" width="270" alt="SheKunj Generative AI Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769897136/Kali_Linux_Basics_SimpliLearn_og4cmp.jpg" width="270" alt="SimpliLearn Kali Linux Basics Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779276550/DSA_Cplus_ChaiCode___CoC_egrj1n.jpg" width="270" alt="DSA wit C++ Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835626/SQL_Basic_Certificate_HackerRank_lyr2rs.jpg" width="270" alt="SQL_Basic_Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614626/Hackathon_VibeCriminals_xjnjsy.jpg" width="270" alt="VibeCriminals_Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614687/Node_js_Intermediate_HackerRank_byxwlh.jpg" width="270" alt="Node_js_Intermediate_Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1785349042/Craftathon_GU_zpzj4b.png" width="270" alt="Craftathon"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835309/CC_Internship_Certificate_Codveda_vfdbyc.jpg" width="270" alt="CC++_Internship_Certificate_Codveda"/>
 </details>
 
 <!-- - Gradient Line -->
