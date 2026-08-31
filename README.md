@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/github/stars/AjmalGit25?style=for-the-badge&color=2563EB"/>
 </p>
 
-<!-- - Gradient Line -->
+<!-- ------------------ Gradient Line ----------------------- -->
 <img src="https://raw.githubusercontent.com/AjmalGit25/AjmalGit25/main/assets/divider-blue.svg" width="100%">
 
 I'm a Full Stack MERN Developer based in Ahmedabad, India. 
@@ -26,7 +26,7 @@ Alongside development, I actively strengthen my problem-solving skills through D
 #
 <i>PS: No world domination plans — just clean code and good ideas.</i>
 
-<!-- - Gradient Line -->
+<!-- ------------------ Gradient Line ----------------------- -->
 <img src="./assets/divider-blue.svg" width="100%">
 
 ## About Me
@@ -108,7 +108,7 @@ const ajmal = {
   funFact: "Favorite emoji: 💀 (because debugging has its own personality.)",
 };
 ```
-<!-- - Gradient Line -->
+<!-- ------------------ Gradient Line ----------------------- -->
 <img src="./assets/divider-blue.svg" width="100%">
 
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
@@ -192,14 +192,12 @@ const ajmal = {
 
 <p align="center">
 
-<img alt="GitHub Streak"
-      src="https://streak-stats.demolab.com/?user=AjmalGit25&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true"
-      width="49%"
+<img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=AjmalGit25&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true" 
 />
-  <img alt="Technology Footprint"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=AjmalGit25&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-width="49%"
+
+<img alt="Technology Footprint" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AjmalGit25&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
 />
+
 </p>
 
 
