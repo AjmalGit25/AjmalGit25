@@ -194,7 +194,6 @@ const ajmal = {
 
 <img alt="GitHub Streak" width="49%" src="https://streak-stats.demolab.com/?user=AjmalGit25&theme=dark&hide_border=false&border=8B949E&background=161B22&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true" 
 />
-
 <img alt="Technology Footprint" width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AjmalGit25&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
 />
 
