@@ -145,6 +145,9 @@ const ajmal = {
       <td align="center"><img height="45" src="https://www.readmecodegen.com/api/social-icon?name=netlify&color=%2310b981" alt="netlify"></td>
       <td align="center"><img height="45" src="https://www.readmecodegen.com/api/social-icon?name=railway&color=%23ffffff" alt="railway"></td>
     </tr>
+    <tr>
+      <td align="center"><img height="45" src="https://www.readmecodegen.com/api/social-icon?name=WebRTC&color=%23ffffff" alt="railway"></td>
+    </tr>
   </table>
 </td>
 
