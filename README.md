@@ -192,7 +192,7 @@ const ajmal = {
 
 
 <!-- ========================================================= -->
-<!--             STATS + TECHNOLOGY FOOTPRINT                  -->
+<!--             GitHub STATS + TECHNOLOGY FOOTPRINT                  -->
 <!-- ========================================================= -->
 
 ## 📊 GitHub Engineering Stats
@@ -270,8 +270,11 @@ const ajmal = {
 <img src="./assets/divider-blue.svg" width="100%">
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782976617/portfolio_mhcvvb.png" width="700" style="border-radius: 50%">
-  <br/>
+  
+  <a href="https://ajmal-hussain.vercel.app/?ref=github">
+    <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782976617/portfolio_mhcvvb.png" width="700" style="border-radius: 50%">
+  </a>
+  
   <em>When your code compiles and so does your personality 🌟</em>
 </p>
 
