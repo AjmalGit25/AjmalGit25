@@ -72,17 +72,13 @@ const ajmal = {
     "PostgreSQL"
   ],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Postman",
-    "VS Code"
-  ],
-
-  deployment: [
+  Cloud & DevOps: [
+    "Git & GitHub",
     "Vercel",
     "Render",
     "Netlify",
+    "SEO",
+    "Google Search Console",
   ],
 
   currentlyLearning: [
@@ -93,6 +89,7 @@ const ajmal = {
     "Prisma ORM",
     "LLM Models + LLM APIs",
     "RAG",
+    "VectorDB",
   ],
 
   interests: [
