@@ -66,6 +66,7 @@ const ajmal = {
   database: [
     "MongoDB",
     "MySQL"
+    "PostgreSQL"
   ],
 
   tools: [
