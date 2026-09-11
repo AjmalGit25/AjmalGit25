@@ -45,7 +45,7 @@ const ajmal = {
 
   frontend: {
     library: "React",
-    frameworks: "",
+    frameworks: "Next.js",
 
     styling: [
       "Tailwind CSS",
@@ -63,9 +63,9 @@ const ajmal = {
     api: ["REST API"],
   },
 
-  database: [
+  databases: [
     "MongoDB",
-    "MySQL"
+    "MySQL",
     "PostgreSQL"
   ],
 
@@ -78,17 +78,23 @@ const ajmal = {
 
   deployment: [
     "Vercel",
-    "Render"
+    "Render",
+    "Netlify",
   ],
 
   currentlyLearning: [
     "Data Structures & Algorithms",
-    "System Design",
-    "TypeScript"
+    "Next.js",
+    "TypeScript",
+    "PostgreSQL",
+    "Prisma ORM",
+    "LLM Models + LLM APIs",
+    "RAG",
   ],
 
   interests: [
     "Full-Stack Development",
+    "Frontend Development",
     "Backend Engineering",
     "Problem Solving",
     "Open Source"
