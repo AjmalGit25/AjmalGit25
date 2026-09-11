@@ -106,7 +106,7 @@ const ajmal = {
     "Java",
     "Linux",
     "R programming",
-    "Figma",
+    "Figma UI/UX",
     "Power BI"
   ],
 
