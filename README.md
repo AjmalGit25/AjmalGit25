@@ -58,7 +58,10 @@ const ajmal = {
   backend: {
     runtime: "Node.js",
     framework: "Express.js",
-    authentication: ["JWT"],
+    authentication: [
+      "JWT",
+      "Next-Auth"
+    ],
     security: ["bcrypt"],
     api: ["REST API"],
   },
