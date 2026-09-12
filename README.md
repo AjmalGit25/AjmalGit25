@@ -17,10 +17,16 @@
 <!-- ------------------ Gradient Line ----------------------- -->
 <img src="https://raw.githubusercontent.com/AjmalGit25/AjmalGit25/main/assets/divider-blue.svg" width="100%">
 
-I'm a Full Stack MERN Developer based in Ahmedabad, India. 
-I specialize in building modern web applications using React, Node.js, MongoDB, and Tailwind CSS. 
-I focus on creating clean, scalable, and user-friendly solutions while following best development practices. 
-Alongside development, I actively strengthen my problem-solving skills through Data Structures and Algorithms using C++.
+<p>
+  I'm a Full Stack MERN Software Developer with hands-on experience in React.js, Node.js, Express.js, and MongoDB. 
+  I like building things end-to-end, from the UI layer all the way down to the infrastructure.
+</p>
+
+<ul>
+  <li>Focusing on creating clean, scalable, and user-friendly solutions while following best development practices.</li>
+  <li>Interested in distributed systems and designing things that scale</li>
+  <li>Integrating the LLM API's, automating the tasks</li>
+</ul>
 
 
 #
