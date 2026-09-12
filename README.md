@@ -28,10 +28,6 @@
   <li>Integrating the LLM API's, automating the tasks</li>
 </ul>
 
-
-#
-<i>PS: No world domination plans — just clean code and good ideas.</i>
-
 <!-- ------------------ Gradient Line ----------------------- -->
 <img src="./assets/divider-blue.svg" width="100%">
 
