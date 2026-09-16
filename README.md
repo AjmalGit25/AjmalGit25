@@ -215,7 +215,7 @@ const ajmal = {
 
 ## Highlights
 <!--* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving -->
-* Solved 225+ DSA problems on LeetCode
+* Solved 230+ DSA problems on LeetCode
 * Share technical learnings and project updates regularly on LinkedIn
 
 ---
