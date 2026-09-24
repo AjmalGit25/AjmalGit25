@@ -1,0 +1,348 @@
+<svg
+  width="100%"
+  height="100%"
+  viewBox="0 0 1600 900"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  preserveAspectRatio="none"
+>
+
+  <defs>
+
+    <!-- Blue glow -->
+    <filter
+      id="blueGlow"
+      x="-50%"
+      y="-50%"
+      width="200%"
+      height="200%"
+    >
+      <feGaussianBlur
+        stdDeviation="5"
+        result="blur"
+      />
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Stronger glow -->
+    <filter
+      id="strongBlueGlow"
+      x="-50%"
+      y="-50%"
+      width="200%"
+      height="200%"
+    >
+      <feGaussianBlur
+        stdDeviation="9"
+        result="blur"
+      />
+
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Animated blue gradient -->
+    <linearGradient
+      id="blueGradient"
+      x1="0%"
+      y1="0%"
+      x2="100%"
+      y2="100%"
+    >
+      <stop
+        offset="0%"
+        stop-color="#00d9ff"
+        stop-opacity="0"
+      />
+
+      <stop
+        offset="25%"
+        stop-color="#00d9ff"
+        stop-opacity="0.8"
+      />
+
+      <stop
+        offset="50%"
+        stop-color="#2979ff"
+        stop-opacity="1"
+      />
+
+      <stop
+        offset="75%"
+        stop-color="#7c4dff"
+        stop-opacity="0.9"
+      />
+
+      <stop
+        offset="100%"
+        stop-color="#00d9ff"
+        stop-opacity="0"
+      />
+    </linearGradient>
+
+  </defs>
+
+
+  <!-- ===================================================== -->
+  <!-- BACKGROUND IMAGE                                      -->
+  <!-- ===================================================== -->
+
+  <image
+    x="0"
+    y="0"
+    width="1600"
+    height="900"
+    preserveAspectRatio="xMidYMid slice"
+    href="https://res.cloudinary.com/dcuziuhqp/image/upload/v1790287399/GitHub_Home_Pic_Blue_kamugc.png"
+    xlink:href="https://res.cloudinary.com/dcuziuhqp/image/upload/v1790287399/GitHub_Home_Pic_Blue_kamugc.png"
+  />
+
+
+  <!-- ===================================================== -->
+  <!-- ANIMATED OVERLAY                                      -->
+  <!-- ===================================================== -->
+
+  <g
+    fill="none"
+    stroke="url(#blueGradient)"
+    stroke-width="2"
+    filter="url(#blueGlow)"
+    opacity="0.85"
+  >
+
+    <!-- Line 1 -->
+    <path
+      d="
+        M-100 650
+        C250 350 420 850 760 500
+        S1150 100 1750 300
+      "
+      stroke-dasharray="180 420"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="600"
+        to="0"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+
+    <!-- Line 2 -->
+    <path
+      d="
+        M-200 760
+        C180 450 430 900 780 610
+        S1250 180 1800 420
+      "
+      stroke-dasharray="120 360"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="480"
+        to="0"
+        dur="7s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+
+    <!-- Line 3 -->
+    <path
+      d="
+        M100 900
+        C350 600 500 720 800 430
+        S1250 250 1700 100
+      "
+      stroke-dasharray="80 300"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="380"
+        to="0"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+
+    <!-- Line 4 -->
+    <path
+      d="
+        M0 420
+        C300 180 500 600 820 350
+        S1250 50 1700 250
+      "
+      stroke-dasharray="100 500"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="600"
+        to="0"
+        dur="9s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!-- EXTRA BRIGHT FLOWING LINES                            -->
+  <!-- ===================================================== -->
+
+  <g
+    fill="none"
+    stroke="#00d9ff"
+    stroke-width="1"
+    filter="url(#strongBlueGlow)"
+    opacity="0.45"
+  >
+
+    <path
+      d="
+        M-100 690
+        C300 400 450 820 800 520
+        S1250 140 1750 340
+      "
+      stroke-dasharray="40 500"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="540"
+        to="0"
+        dur="6s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+
+    <path
+      d="
+        M-100 800
+        C250 520 500 850 850 600
+        S1300 220 1800 400
+      "
+      stroke-dasharray="35 450"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="485"
+        to="0"
+        dur="8s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+  </g>
+
+
+  <!-- ===================================================== -->
+  <!-- GLOWING PARTICLES                                    -->
+  <!-- ===================================================== -->
+
+  <g
+    fill="#00d9ff"
+    filter="url(#blueGlow)"
+  >
+
+    <circle
+      cx="300"
+      cy="500"
+      r="3"
+    >
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="r"
+        values="2;4;2"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+
+    <circle
+      cx="850"
+      cy="400"
+      r="3"
+    >
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="r"
+        values="2;4;2"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+
+    <circle
+      cx="1250"
+      cy="300"
+      r="2"
+    >
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="2.5s"
+        repeatCount="indefinite"
+      />
+
+      <animate
+        attributeName="r"
+        values="1;3;1"
+        dur="2.5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+
+    <circle
+      cx="600"
+      cy="700"
+      r="2"
+    >
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="3.5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+
+    <circle
+      cx="1400"
+      cy="600"
+      r="2"
+    >
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="2.8s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+  </g>
+
+</svg>
