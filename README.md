@@ -92,6 +92,7 @@ const ajmal = {
     "LLM Models + LLM APIs",
     "RAG",
     "VectorDB",
+    "AWS"
   ],
 
   interests: [
