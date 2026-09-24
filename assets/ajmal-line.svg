@@ -1,0 +1,129 @@
+<svg
+  width="100%"
+  height="100%"
+  viewBox="0 0 1600 900"
+  xmlns="http://www.w3.org/2000/svg"
+  preserveAspectRatio="none"
+>
+  <defs>
+    <!-- Blue glow -->
+    <filter id="blueGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Animated gradient -->
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d9ff" stop-opacity="0"/>
+      <stop offset="35%" stop-color="#00d9ff"/>
+      <stop offset="65%" stop-color="#2979ff"/>
+      <stop offset="100%" stop-color="#7c4dff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Main flowing lines -->
+  <g
+    fill="none"
+    stroke="url(#blueGradient)"
+    stroke-width="2"
+    filter="url(#blueGlow)"
+    opacity="0.8"
+  >
+
+    <path
+      d="M-100 650
+         C250 350 420 850 760 500
+         S1150 100 1750 300"
+      stroke-dasharray="180 420"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="600"
+        to="0"
+        dur="5s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+    <path
+      d="M-200 760
+         C180 450 430 900 780 610
+         S1250 180 1800 420"
+      stroke-dasharray="120 360"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="480"
+        to="0"
+        dur="7s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+    <path
+      d="M100 900
+         C350 600 500 720 800 430
+         S1250 250 1700 100"
+      stroke-dasharray="80 300"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="380"
+        to="0"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+    <path
+      d="M0 420
+         C300 180 500 600 820 350
+         S1250 50 1700 250"
+      stroke-dasharray="100 500"
+    >
+      <animate
+        attributeName="stroke-dashoffset"
+        from="600"
+        to="0"
+        dur="9s"
+        repeatCount="indefinite"
+      />
+    </path>
+
+  </g>
+
+  <!-- Small glowing particles -->
+  <g fill="#00d9ff" filter="url(#blueGlow)">
+
+    <circle cx="300" cy="500" r="3">
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="2s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="850" cy="400" r="3">
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="1250" cy="300" r="2">
+      <animate
+        attributeName="opacity"
+        values="0;1;0"
+        dur="2.5s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+  </g>
+</svg>
