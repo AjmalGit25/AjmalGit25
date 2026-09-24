@@ -269,15 +269,14 @@ const ajmal = {
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835309/CC_Internship_Certificate_Codveda_vfdbyc.jpg" width="270" alt="CC++_Internship_Certificate_Codveda"/>
 </details>
 
-<!-- - Gradient Line -->
+<!-- Gradient Line -->
 <img src="./assets/divider-blue.svg" width="100%">
 
+<!-- My Portfolio Branding with Link (Photo + Quote) -->
 <p align="center">
-  
-  <a href="https://ajmal-hussain.vercel.app/?ref=github">
-    <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782976617/portfolio_mhcvvb.png" width="700" style="border-radius: 50%">
+  <a href="https://ajmal-hussain.vercel.app/?ref=github" target="_blank" rel="noopener noreferrer">
+    <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1790287399/GitHub_Home_Pic_Blue_kamugc.png" width="100%">
   </a>
-  
   <em>When your code compiles and so does your personality 🌟</em>
 </p>
 
