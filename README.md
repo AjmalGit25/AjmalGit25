@@ -254,7 +254,8 @@ const ajmal = {
 <details>
   <summary><h2> 📄 View Certificates (Toggle Here) </h2></summary>
   
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1788208636/Internship_Certificate_Training_Full-Stack_CodecTechnologies_qk8nzj.jpg" width="270" alt="Internship_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1790395006/Zidio-Training-Completion-Certificate_zrxpuh.jpg" width="270" alt="Zidio-Internship_Certificate"/>
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1788208636/Internship_Certificate_Training_Full-Stack_CodecTechnologies_qk8nzj.jpg" width="270" alt="Codec-Internship_Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1785349042/Craftathon_GU_zpzj4b.png" width="270" alt="Craftathon"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614687/Node_js_Intermediate_HackerRank_byxwlh.jpg" width="270" alt="Node_js_Intermediate_Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1782614626/Hackathon_VibeCriminals_xjnjsy.jpg" width="270" alt="VibeCriminals_Certificate"/>
