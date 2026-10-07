@@ -143,7 +143,7 @@ flowchart TD
     COL --> COL2["Full-stack Platforms"]
     COL --> COL3["Automation Systems"]
 
-    style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff
+    style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff,font-weight:bold,padding:2px
     style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
     style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
     style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
