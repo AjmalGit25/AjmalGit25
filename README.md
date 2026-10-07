@@ -147,7 +147,6 @@ flowchart TD
     style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
     style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
     style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
-    style ASK fill:#2D9CDB,stroke:#1B6FA8,color:#fff
 ```
 
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
