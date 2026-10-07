@@ -120,6 +120,39 @@ const ajmal = {
 ```
 <!-- ------------------ Gradient Line ----------------------- -->
 <img src="./assets/divider-blue.svg" width="100%">
+  
+```mermaid
+%%{init: {"flowchart": {"nodeSpacing": 25, "rankSpacing": 55}}}%%
+flowchart LR
+    ME(("🧑‍💻 EIMAN TAHIR"))
+
+    ME --> CW["🚀 Currently Working On"]
+    CW --> CW1["ZoomFire 🔥"]
+    CW --> CW2["LLM APIs + RAG"]
+    CW --> CW3["AWS EC2 Server"]
+    CW --> CW4["Project LOOP"]
+
+    ME --> EX["🏆 Expert In"]
+    EX --> EX1["AI & ML Engineering"]
+    EX --> EX2["Production-ready AI Workflows"]
+    EX --> EX3["Intelligent Automation Systems"]
+
+    ME --> COL["🤝 Looking to Collaborate"]
+    COL --> COL1["AI-powered Applications"]
+    COL --> COL2["Full-stack Platforms"]
+    COL --> COL3["Automation Systems"]
+
+    ME --> ASK["💬 Ask Me About"]
+    ASK --> ASK1["AI/ML/LLM Engineering"]
+    ASK --> ASK2["Agentic AI Solutions"]
+    ASK --> ASK3["Production AI Workflows"]
+
+    style ME fill:#0B4C7C,stroke:#083656,stroke-width:2px,color:#fff
+    style CW fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style EX fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style COL fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+    style ASK fill:#2D9CDB,stroke:#1B6FA8,color:#fff
+```
 
 <table width="100%" cellspacing="0" cellpadding="0" align="center">
   <tr>
