@@ -282,6 +282,7 @@ flowchart TD
 <details>
   <summary><h2> 📄 View Certificates (Toggle Here) </h2></summary>
   
+  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1792717096/GfG_160_Days_of_Problem_Solving_ossznh.jpg" width="270" alt="GfG_160_Days_of_Problem_Solving"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1790395006/Zidio-Training-Completion-Certificate_zrxpuh.jpg" width="270" alt="Zidio-Internship_Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1788208636/Internship_Certificate_Training_Full-Stack_CodecTechnologies_qk8nzj.jpg" width="270" alt="Codec-Internship_Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1785349042/Craftathon_GU_zpzj4b.png" width="270" alt="Craftathon"/>
@@ -295,7 +296,6 @@ flowchart TD
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896633/Data_Analytics_with_PowerBI_Rai_VAC_rin2xn.jpg" width="270" alt="Data Analytics using Power BI Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1769896950/Generative_AI_Course_SheKunj_wnn2o2.jpg" width="270" alt="SheKunj Generative AI Certificate"/>
   <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835626/SQL_Basic_Certificate_HackerRank_lyr2rs.jpg" width="270" alt="SQL_Basic_Certificate"/>
-  <img src="https://res.cloudinary.com/dcuziuhqp/image/upload/v1779835309/CC_Internship_Certificate_Codveda_vfdbyc.jpg" width="270" alt="CC++_Internship_Certificate_Codveda"/>
 </details>
 
 <!-- Gradient Line -->
